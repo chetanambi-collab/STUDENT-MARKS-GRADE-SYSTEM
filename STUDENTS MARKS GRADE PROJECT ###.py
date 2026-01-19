@@ -28,19 +28,3 @@ for student in (students_data):
     else:
         students_grades[student] = "E"
 print(students_grades)
-
-
-#import time
- #seconds = time.localtime([seconds])
-
-import time
-t = time.localtime()
-print(t)
-
-import time
-print(time.time())
-print(help("random"))
-print(help("random"))
-print(help("time"))
-print(help("math"))
-print(help("os"))
